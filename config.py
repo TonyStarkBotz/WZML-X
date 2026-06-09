@@ -176,7 +176,7 @@ MIRROR_LOG_ID = "-1002495255166"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
-BASE_URL = ""
+BASE_URL = "https://dizzy-saudra-tonystark75-9b8b0f60.koyeb.app/"
 BASE_URL_PORT = 0
 WEB_PINCODE = True
 
