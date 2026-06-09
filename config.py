@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
 BOT_TOKEN = "8342621501:AAEn0J5AcE0tkgy929TAogypI77zwZQG-CY"
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+OWNER_ID = "5019668523"
+TELEGRAM_API = "20519744"
+TELEGRAM_HASH = "7c50a4e525de5fcd9756fba209d0c4e4"
+DATABASE_URL = "mongodb+srv://tabolo8539:0evqZDV4fC5fD17c@cluster0.cw8zxus.mongodb.net/?retryWrites=true&w=majority"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,7 +12,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1002482773602"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
